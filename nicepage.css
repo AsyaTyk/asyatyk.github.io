@@ -42748,8 +42748,8 @@ a.u-link.u-text-hover-grey-90:hover {
 
 /*end-variables sitestylecss*/
  .u-header {
-  background-image: linear-gradient(0deg, rgba(0,0,0,0.25), rgba(0,0,0,0.25)), url("images/5.jpeg");
-  background-position: 50% 0%;
+  background-image: linear-gradient(0deg, rgba(0,0,0,0.25), rgba(0,0,0,0.25)), url('images/4.jpeg');
+  background-position: 50% 50%;
 }
 
 .u-header .u-sheet-1 {
@@ -42790,6 +42790,8 @@ a.u-link.u-text-hover-grey-90:hover {
   }
 
   .u-header .u-image-1 {
+    width: 86px;
+    height: 86px;
     margin-top: -62px;
   }
 }
@@ -42854,12 +42856,12 @@ a.u-link.u-text-hover-grey-90:hover {
 }
 
 .u-footer .u-sheet-1 {
-  min-height: 120px;
+  min-height: 47px;
 }
 
 .u-footer .u-text-1 {
   width: 417px;
-  margin: 49px auto;
+  margin: 13px auto;
 }
 @media (max-width: 1199px) {
   .u-footer .u-sheet-1 {
